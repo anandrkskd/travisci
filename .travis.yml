@@ -8,4 +8,4 @@ jobs:
     - stage: test
       name: "test all Devfiles"
       script:
-        - ./test.sh
+        - bash ./test.sh
